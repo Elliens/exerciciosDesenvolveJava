@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AgendaTelefonica/AgendaTelefonica.iml" filepath="$PROJECT_DIR$/AgendaTelefonica/AgendaTelefonica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesenvolveTech-Sicredi.iml" filepath="$PROJECT_DIR$/.idea/DesenvolveTech-Sicredi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desenvolveClasses/desenvolveClasses.iml" filepath="$PROJECT_DIR$/desenvolveClasses/desenvolveClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desenvolveTech-SpringBoot/desenvolveTech-SpringBoot.iml" filepath="$PROJECT_DIR$/desenvolveTech-SpringBoot/desenvolveTech-SpringBoot.iml" />
+    </modules>
+  </component>
+</project>
